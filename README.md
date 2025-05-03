@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nicknochnack-buildmcpserver-badge.png)](https://mseep.ai/app/nicknochnack-buildmcpserver)
+
 # Build a MCP Server 
 A complete walkthrough on how to build a MCP server to serve a trained Random Forest model and integrate it with Bee Framework for ReAct interactivity.
 
